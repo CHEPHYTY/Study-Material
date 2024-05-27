@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome To Prisma ORM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b847c1889b8a2ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome To Prisma ORM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome To Prisma ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome To Prisma ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Welcome To Prisma ORM.md"
               }
             }
           }
@@ -146,8 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3a429f8ae39ce79",
+  "active": "b847c1889b8a2ac3",
   "lastOpenFiles": [
-    "Welcome.md"
+    "PrismaProject/node_modules/@prisma/client/generator-build/index.js",
+    "PrismaProject/node_modules/@prisma/client/generator-build",
+    "PrismaProject/node_modules/prisma/query_engine-windows.dll.node",
+    "PrismaProject/node_modules/@prisma/client/LICENSE",
+    "PrismaProject/node_modules/@prisma/client/runtime/query_engine_bg.sqlite.wasm",
+    "PrismaProject/node_modules/@prisma/client/runtime/query_engine_bg.postgresql.wasm",
+    "PrismaProject/node_modules/@prisma/client/runtime/react-native.d.ts",
+    "PrismaProject/node_modules/@prisma/client/react-native.d.ts",
+    "PrismaProject/node_modules/@prisma/client/runtime/library.d.ts",
+    "PrismaProject/node_modules/@prisma/client/default.d.ts",
+    "PrismaProject/node_modules/nodemon/doc/cli/whoami.txt",
+    "Prisma Study.md",
+    "Welcome To Prisma ORM.md",
+    "PrismaProject/node_modules/touch/README.md",
+    "PrismaProject/node_modules/supports-color/readme.md",
+    "PrismaProject/node_modules/readdirp/README.md",
+    "PrismaProject/node_modules/ms/readme.md",
+    "PrismaProject/node_modules/ms/license.md",
+    "PrismaProject/node_modules/is-number/README.md",
+    "PrismaProject/node_modules/minimatch/README.md",
+    "PrismaProject/node_modules/fill-range/README.md",
+    "PrismaProject/node_modules/is-binary-path/readme.md",
+    "PrismaProject/node_modules/has-flag/readme.md",
+    "PrismaProject/node_modules/chokidar/README.md",
+    "PrismaProject/node_modules/debug/README.md",
+    "PrismaProject/node_modules/anymatch/README.md",
+    "PrismaProject/node_modules/balanced-match/README.md",
+    "PrismaProject/node_modules/balanced-match/LICENSE.md",
+    "PrismaProject/node_modules/undefsafe/README.md",
+    "PrismaProject/node_modules/@prisma/engines-version/README.md",
+    "PrismaProject/node_modules/@prisma/engines/README.md",
+    "PrismaProject/node_modules/undici-types/README.md",
+    "PrismaProject/node_modules/@prisma/fetch-engine/README.md",
+    "PrismaProject/node_modules/@prisma/get-platform/README.md",
+    "PrismaProject/node_modules/prisma/build/public/favicon.svg",
+    "PrismaProject/node_modules/prisma/build/public/icon-1024.png",
+    "PrismaProject/node_modules/prisma/README.md",
+    "PrismaProject/node_modules/prisma/build/public/assets/tick.8cbb6a93.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/tick-indeterminate.aec8a44d.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/string.ea615a24.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/settings.5ad25af2.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/search.2ed766ce.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/refresh.d5448ccc.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/plus.8fbf7ad3.svg",
+    "PrismaProject/node_modules/prisma/build/public/assets/play.8811691e.svg",
+    "PrismaProject/node_modules/prisma/prisma-client/README.md"
   ]
 }

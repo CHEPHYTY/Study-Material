@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "00c483573efcb636",
+    "type": "split",
+    "children": [
+      {
+        "id": "29c69d61cd76d350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9865ef546236dde6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn DBMS/ER Model/ER Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f3454f1099bb5cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a433a42404866d18",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Learn DBMS/Extended ER Model/Instagram.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86be0ea4c0fe001d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d67339dd861a7f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0003b51e56c310",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1aa7a438462c8264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a00d69d7bea37a3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.50791931152344
+  },
+  "right": {
+    "id": "6cd3afd50d55d914",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbcaf81a78813f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffd6e7420dcb2570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn DBMS/ER Model/ER Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faec973ed6a52f5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn DBMS/ER Model/ER Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8bd1f5e78329edb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "499e1c815ae2248d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn DBMS/ER Model/ER Model.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9865ef546236dde6",
+  "lastOpenFiles": [
+    "Learn DBMS/Extended ER Model/Instagram.canvas",
+    "Learn DBMS/Extended ER Model/Extended ER Model.md",
+    "Learn DBMS/ER Model/Lecture 1.md",
+    "Learn DBMS/Extended ER Model/Lecture 6.md",
+    "Learn DBMS/ER Model/Lecture 6.md",
+    "Learn DBMS/ER Model/Lecture 5.md",
+    "Learn DBMS/ER Model/Lecture 4.md",
+    "Learn DBMS/ER Model/Lecture 2.md",
+    "Learn DBMS/ER Model/ER Model.md",
+    "Content.md",
+    "Learn DBMS/Theory.md",
+    "Learn DBMS/What is SQL.md",
+    "Learn DBMS/Extended ER Model/Lecture 5.md",
+    "Learn DBMS/Extended ER Model/Lecture 3.md",
+    "Learn DBMS/Extended ER Model/Lecture 1.md",
+    "Learn DBMS/Extended ER Model/Lecture 4.md",
+    "Learn DBMS/Extended ER Model/Lecture 2.md",
+    "Learn DBMS/Extended ER Model",
+    "Images/Pasted image 20240527093040.png",
+    "Images/Pasted image 20240527091750.jpg",
+    "Pasted image 20240527091706.png",
+    "Images/Introduction-to-ER-Model-2-768 1.webp",
+    "Images/Pasted image 20240527091405.png",
+    "Images/Introduction-to-ER-Model-1-768.webp",
+    "Learn DBMS/ER Model/Lecture 3.md",
+    "Images/Strong-entity-in-DBMS.webp",
+    "Images/Pasted image 20240526230417.png",
+    "Images/Pasted image 20240526233031.png",
+    "Images/Introduction-to-ER-Model-2-768.webp",
+    "ERDiagramsInDBMS_3 1.avif.md",
+    "Learn DBMS/ER Model",
+    "Learn DBMS.md",
+    "Learn DBMS",
+    "SQL/2.1 Data Model.md",
+    "Context.md",
+    "Images",
+    "Welcome.md",
+    "college_database.sql",
+    "Sql Query file.sql"
+  ]
+}
